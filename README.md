@@ -1,4 +1,4 @@
-# update [![](https://jitpack.io/v/czy1121/update.svg)](https://jitpack.io/#czy1121/update)
+﻿# update [![](https://jitpack.io/v/czy1121/update.svg)](https://jitpack.io/#czy1121/update)
 
 清晰灵活简单易用的应用更新库
 
@@ -14,6 +14,10 @@
 - 支持自定义提示对话框/下载进度对话框
 - 支持通知栏进度显示
 - 适配 Android 7.0 FileProvider
+
+
+
+
 
 ![update1](screenshot1.png) ![update2](screenshot2.png)
 ![update3](screenshot3.png) ![update4](screenshot4.png)
